@@ -1,6 +1,6 @@
 cask "later" do
-  version "2.7.5"
-  sha256 "9f0ab9bc81d86dea6d9578369a2167f20b44f56c264f005127492e6cc64e64a3"
+  version "2.7.6"
+  sha256 "549b2785725cbe8c78a3fd12c66561061512071bb8d27cc1a0f8df08ea9a363e"
 
   url "https://github.com/LazaroZero1176/later/releases/download/v#{version}/Later-#{version}.dmg"
   name "Later"
